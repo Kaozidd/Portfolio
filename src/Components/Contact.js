@@ -9,11 +9,15 @@ const Contact = ({ data }) => {
 
    console.log(data)
 
-    const handleClick = (e) => {
-       e.preventDefault();
-      window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
-    }
-    
+      // const handleClick = (e) => {
+      //    e.preventDefault();
+      //    window.open(`mailto:${email}?subject=${subject}&body=${name}: ${message}`);
+      // }
+
+      const handleClickTest = (e) => {
+         e.preventDefault();
+         alert("This is not yet implemented, please contact me at my e-mail kaozidd420@gmail.com")
+      }
 
     return (
       <section id="contact">
@@ -25,6 +29,7 @@ const Contact = ({ data }) => {
                <h1><span>Get In Touch.</span></h1>
 
             </div>
+            <span className="notImplemented">This is not yet implemented, please contact me at my e-mail displayed below</span>
 
             <div className="ten columns">
 
@@ -61,7 +66,7 @@ const Contact = ({ data }) => {
                   </div>
 
                   <div>
-                     <button type='submit' onClick={handleClick} className="submit">Submit</button>
+                     <button type='submit' onClick={handleClickTest} className="submit">Submit</button>
                      <span id="image-loader">
                         <img alt="" src="images/loader.gif" />
                      </span>

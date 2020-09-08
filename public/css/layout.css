@@ -194,7 +194,7 @@ ul#nav li.current a { color: #06D6A0; }
 }
 
 #about a, #about a:visited  { color: #fff; }
-#about a:hover, #about a:focus { color: #11ABB0; }
+#about a:hover, #about a:focus { color: #729C44; }
 
 #about h2 {
    font: 22px/30px 'opensans-bold', sans-serif;
@@ -422,12 +422,12 @@ ul#nav li.current a { color: #06D6A0; }
    padding-bottom: 60px;
 }
 #portfolio h1 {
-   font: 15px/24px 'opensans-semibold', sans-serif;
+   font: 24px/36px 'opensans-semibold', sans-serif;
    text-transform: uppercase;
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
-   color: #95A3A3;
+   color: #3A3A3A;
 }
 
 #portfolio-wrapper {
@@ -816,8 +816,8 @@ call-to-action .button {
 }
 #contact .section-head { margin-bottom: 42px; }
 
-#contact a, #contact a:visited  { color: #11ABB0; }
-#contact a:hover, #contact a:focus { color: #fff; }
+#contact a, #contact a:visited  { color: #FAFAFF; }
+#contact a:hover, #contact a:focus { color: #729C44; }
 
 #contact h1 {
    font: 18px/24px 'opensans-bold', sans-serif;
@@ -919,6 +919,9 @@ call-to-action .button {
    position: relative;
    left: 18px;
    top: 17px;
+}
+.notImplemented {
+   color: #C32020
 }
 
 
