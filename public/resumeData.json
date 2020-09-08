@@ -1,0 +1,136 @@
+{
+  "main": {
+    "name": "Arturo Ortega",
+    "occupation": "Jr. Full-Stack Developer",
+    "description": "24 y/o computer enthusiast, with a habit of self-teaching. ",
+    "image": "kaozidd.jpg",
+    "bio": "My name is Arthur, I'm a Jr. Full-Stack developer that loves music, beauty, and poetry. I have an actual background on those three. I'm a fast learner, goal-oriented, and usually percieved as an \"Out-of-the-box\" thinker.",
+    "contactmessage": "Email me your questions, proposals, requests and anything that you'd think it's meant to get to me.",
+    "email": "kaozidd420@gmail.com",
+    "phone": "+52-55-2218-0672",
+    "address": {
+      "city": "Mexico City",
+      "state": "MX",
+      "zip": "01290"
+    },
+    "website": "http://www.kaozidd.com",
+    "resumedownload": "http://kaozidd/resume.com",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/SirArthurHemingway/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kaozidd/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Kaozidd/",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/arthur.hemingway/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Kaozidd/",
+        "className": "fa fa-twitter"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "ENP #8 \"Miguel E. Schulz\"",
+        "status": "Drop-Out",
+        "years": "Aug 2012 - Jun 2015",
+        "description": "Was doing quite well and even exeedingly good in many assignatures until I screwed it up big time."
+      }
+    ],
+    "work": [
+      {
+        "company": "Fast and Easy House Buyers",
+        "title": "SMS Agent and Data Analyst",
+        "years": "April 2020 - Present",
+        "description": "Desk magician. Handling incoming SMS, filtering them out, and analyzing data quality and behaviour."
+      },
+      {
+        "company": "TelePerformance",
+        "title": "Back Office Agent",
+        "years": "June 2019 - February 2020",
+        "description": "Re-Assigning orders that failed to be assigned manually for the GrubHub food delivery app."
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Figma && Adobe XD",
+        "level": "70%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MySql",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Customizable Particle Generator",
+        "category": "Simple particle simulator using p5js",
+        "image": "particles.jpg",
+        "url": "https://codepen.io/Kaozidd/pen/NWxZjra"
+      },
+      {
+        "title": "Particle Simulator (mobile)",
+        "category": "Simple particle simulator for mobile devices using p5js",
+        "image": "particlesmob.jpg",
+        "url": "https://codepen.io/Kaozidd/full/XWdrmrQ"
+      },
+      {
+        "title": "Fourier Series",
+        "category": "Visualizing fourier series for a square wave using p5js",
+        "image": "fourier.jpg",
+        "url": "https://codepen.io/Kaozidd/pen/maqNZO"
+      },
+      {
+        "title": "Multiple-option quiz",
+        "category": "Evaluation for a predetermined exam in JavaScript and HTML",
+        "image": "evaluation.jpg",
+        "url": "https://codepen.io/Kaozidd/pen/RmomYq"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "You're a wizard, Harry!",
+        "user": "A close friend of mine (he might have been drunk)."
+      },
+      {
+        "text": "I need you to help me build a better future for the world",
+        "user": "Elon Musk, on NeuraLink's YouTube live showcase."
+      }
+    ]
+  }
+}
